@@ -1,0 +1,15 @@
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\bin\Debug\easygrammm.exe.config
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\bin\Debug\easygrammm.exe
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\bin\Debug\easygrammm.pdb
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\obj\Debug\easygrammm.csprojAssemblyReference.cache
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\obj\Debug\easygrammm.Dilavergram.resources
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\obj\Debug\easygrammm.Properties.Resources.resources
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\obj\Debug\easygrammm.csproj.GenerateResource.cache
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\obj\Debug\easygrammm.csproj.CoreCompileInputs.cache
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\obj\Debug\easygrammm.exe
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\obj\Debug\easygrammm.pdb
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\bin\Debug\WebDriver.dll
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\bin\Debug\WebDriver.Support.dll
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\bin\Debug\WebDriver.xml
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\bin\Debug\WebDriver.Support.xml
+C:\Users\Dilaver\source\repos\easygrammm\easygrammm\obj\Debug\easygrammm.csproj.CopyComplete
